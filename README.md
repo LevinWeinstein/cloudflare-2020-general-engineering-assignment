@@ -84,10 +84,10 @@ Once you've completed the code for this project, you can deploy it using `wrangl
 Create a URL.txt that contains one line in it with the URL of your page.  For example if my assignment was deployed at https://myassignment.mydomain.com/ I would put the following in URL.txt:
 
 ```
-https://myassignment.mydomain.com/
+https://link-worker.lmweinstein.workers.dev
 ```
 
-We will test your code by visiting the URL in that file and the /links endpoint as well.  In the above example we would test https://myassignment.mydomain.com/ and https://myassignment.mydomain.com/links .
+We will test your code by visiting the URL in that file and the /links endpoint as well.  In the above example we would test https://link-worker.lmweinstein.workers.dev and https://link-worker.lmweinstein.workers.dev/links .
 
 ### Extra Credit
 1. Provide social links
